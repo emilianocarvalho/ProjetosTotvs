@@ -1,5 +1,7 @@
 INSTALAÇÃO
 
+![ScreenShot](screenshots/snaptshot01.png)
+
 Adicionar no menu Miscelânea do modulo
 
 Deixar o nome do fonte como NTGCLITPRC.prw apenas.
@@ -8,7 +10,7 @@ Após os cadastros serem importados do servidor, pelo processo do Cont
 
 OPERAÇÕES
 
-![ScreenShot](screenshots/snaptshot01.png)­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­
+![ScreenShot](screenshots/snaptshot02.png)
 
 I ­ Clientes a vista / cartão e que o cadastro atenda ao SPED Quanto a questão de o cliente ser a vista ou cartão, considerei que no cadastro do cliente é informada a condição de pagamento padrão utilizada por ele, presumindo haver condições de pagamento já cadastradas para cada 
 situação.
