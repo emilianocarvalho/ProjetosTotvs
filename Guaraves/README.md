@@ -1,10 +1,11 @@
 INSTALAÇÃO
 
-![ScreenShot](screenshots/snaptshot01.png)
 
 Adicionar no menu Miscelânea do modulo
 
 Deixar o nome do fonte como NTGCLITPRC.prw apenas.
+
+![ScreenShot](screenshots/snaptshot01.png)
 
 Após os cadastros serem importados do servidor, pelo processo do Controle de Lojas, proceder com as preparações executando a rotina.
 
